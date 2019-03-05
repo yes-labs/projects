@@ -1,5 +1,3 @@
-# Yes Labs
-
 ## What is Yes Labs?
 
 Yes Labs is a place for people interested in Scottish Independence to
@@ -13,7 +11,7 @@ Then this is the place for you!
 
 ## How do I participate?
 
-Visit our [https://github.com/yes-labs/projects/issues/](Github Issues) page, this
+Visit our [Github Issues](https://github.com/yes-labs/projects/issues/) page, this
 is where we are currently listing projects and discussing ideas. Please feel
 welcome to open new issues if you have an idea for a project or something you
 would like to discuss.
@@ -24,7 +22,7 @@ participating.
 
 ## Conduct
 
-We have a [https://github.com/yes-labs/projects/CODE_OF_CONDUCT.md](Code of Conduct),
+We have a [Code of Conduct](https://github.com/yes-labs/projects/CODE_OF_CONDUCT.md),
 please check it out and understand we will be taking it seriously. Discussions about
 politics can often get passionate so please take care to keep things on topic, be
 sensitive to other peoples perspectives and try to give others the benefit of the
