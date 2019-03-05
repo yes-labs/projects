@@ -25,7 +25,7 @@ participating.
 We have a [Code of Conduct](https://github.com/yes-labs/projects/CODE_OF_CONDUCT.md),
 please check it out and understand we will be taking it seriously. Discussions about
 politics can often get passionate so please take care to keep things on topic, be
-sensitive to other peoples perspectives and try to give others the benefit of the
+sensitive to other people's perspectives and try to give others the benefit of the
 doubt. If you feel like anyone has crossed a line please email me at
 [dale@arandomurl.com](dale@arandomurl.com) and it will be dealt with seriously and
 confidentially.
